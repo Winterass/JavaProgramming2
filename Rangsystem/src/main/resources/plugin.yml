@@ -1,0 +1,8 @@
+name: Rangsystem
+version: '${project.version}'
+main: net.server.RangSystem
+api-version: 1.16
+
+commands:
+  rang:
+    permission: rangsystem.command.*

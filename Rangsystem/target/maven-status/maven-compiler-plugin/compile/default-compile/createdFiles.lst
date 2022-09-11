@@ -1,0 +1,6 @@
+net/server/GroupCache.class
+net/server/UserCache.class
+net/server/UserGroup.class
+net/server/commands/GroupCommand.class
+net/server/listeners/JoinListener.class
+net/server/RangSystem.class
